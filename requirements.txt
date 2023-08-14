@@ -104,7 +104,7 @@ six==1.11.0
 smmap2==2.0.4
 terminado==0.8.2
 testpath==0.3.1
-tornado==5.1
+tornado==6.3.3
 traitlets==4.3.2
 treeinterpreter==0.2.1
 tzlocal==1.5.1
