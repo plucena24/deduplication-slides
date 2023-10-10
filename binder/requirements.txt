@@ -28,7 +28,7 @@ future==0.16.0
 fuzzycategory==0.0.4
 geocoder==1.38.1
 gitdb2==2.0.4
-GitPython==2.1.11
+GitPython==3.1.37
 haversine==0.4.5
 highered==0.2.1
 html5lib==1.0.1
